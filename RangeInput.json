@@ -1,0 +1,14 @@
+{
+    "@context": "http://webuischema.org",
+    "@type": "RangeInput",
+    "min": "Integer",
+    "max": "Integer",
+    "value": "Integer",
+    "@labels": {
+        "en_GB": {
+            "min": "Min. value",
+            "max": "Max. value",
+            "value": "Default value"
+        }
+    }
+}

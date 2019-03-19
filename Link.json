@@ -1,0 +1,14 @@
+{
+    "@context": "http://webuischema.org",
+    "@type": "Link",
+    "text": "String",
+    "href": "String",
+    "target": "[LinkTarget]",
+    "@labels": {
+        "en_GB": {
+            "href": "URL",
+            "target": "Open in",
+            "text": "Text"
+        }
+    }
+}

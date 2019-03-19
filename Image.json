@@ -1,0 +1,12 @@
+{
+    "@context": "http://webuischema.org",
+    "@type": "Image",
+    "src": "String",
+    "alt": "String",
+    "@labels": {
+        "en_GB": {
+            "src": "Source",
+            "alt": "Title"
+        }
+    }
+}
