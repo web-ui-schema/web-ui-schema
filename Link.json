@@ -1,9 +1,9 @@
 {
     "@context": "http://webuischema.org",
     "@type": "Link",
-    "text": "[string]",
-    "href": "[string]",
-    "target": "[LinkTarget]",
+    "text": "string",
+    "href": "string",
+    "target": "LinkTarget",
     "@labels": {
         "en_GB": {
             "href": "URL",

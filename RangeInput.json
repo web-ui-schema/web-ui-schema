@@ -1,9 +1,9 @@
 {
     "@context": "http://webuischema.org",
     "@type": "RangeInput",
-    "min": "[int]",
-    "max": "[int]",
-    "value": "[int]",
+    "min": "int",
+    "max": "int",
+    "value": "int",
     "@labels": {
         "en_GB": {
             "min": "Min. value",
