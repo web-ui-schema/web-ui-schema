@@ -1,0 +1,30 @@
+{
+    "@context": "http://uischema.org",
+    "@type": "Gallery",
+    "heading": "string",
+    "subheading": "string",
+    "body": "string",
+    "items": "Feature[]",
+    "@locales": {
+        "en_GB": {
+            "@name": "Gallery",
+            "@description": "A collection of featured items",
+            "heading": {
+                "@name": "Heading",
+                "@description": "The largest heading"
+            },
+            "subheading": {
+                "@name": "Subheading",
+                "@description": "The smaller heading"
+            },
+            "body": {
+                "@name": "Body text",
+                "@description": "The smaller text under the headings"
+            },
+            "items": {
+                "@name": "Items",
+                "@description": "The list of featured items"
+            }
+        }
+    }
+}

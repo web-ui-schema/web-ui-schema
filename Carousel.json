@@ -1,0 +1,11 @@
+{
+    "@context": "http://uischema.org",
+    "@type": "Carousel",
+    "@parent": "Gallery",
+    "@locales": {
+        "en_GB": {
+            "@name": "Carousel",
+            "@description": "A horizontally scrolling gallery"
+        }
+    }
+}
