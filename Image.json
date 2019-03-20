@@ -1,13 +1,21 @@
 {
-    "@context": "http://webuischema.org",
+    "@context": "http://uischema.org",
     "@type": "Image",
     "@description": "An image element",
     "src": "string",
     "alt": "string",
-    "@labels": {
+    "@locales": {
         "en_GB": {
-            "src": "Source",
-            "alt": "Title"
+            "@name": "Image",
+            "@description": "A reference to an image",
+            "src": {
+                "@name": "Source",
+                "@description": "The source of the image"
+            },
+            "alt": {
+                "@name": "Description",
+                "@description": "A short description of the image"
+            }
         }
     }
 }
