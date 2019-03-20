@@ -1,0 +1,20 @@
+{
+    "@context": "http://uischema.org",
+    "@type": "Option",
+    "name": "string",
+    "value": "string|int|float|bool",
+    "@locales": {
+        "en_GB": {
+            "@name": "Option",
+            "@description": "An option in a list",
+            "name": {
+                "@name": "Name",
+                "@description": "The display name"
+            },
+            "value": {
+                "@name": "Value",
+                "@description": "The data value"
+            }
+        }
+    }
+}
