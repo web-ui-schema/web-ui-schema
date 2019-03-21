@@ -2,7 +2,7 @@
     "@context": "http://uischema.org",
     "@type": "Dropdown",
     "text": "string",
-    "options": "Option[]|Link[]",
+    "options": "Link[]",
     "@locales": {
         "en_GB": {
             "@name": "Dropdown",
