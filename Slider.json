@@ -4,8 +4,8 @@
     "min": "int",
     "max": "int",
     "value": "int",
-    "@locales": {
-        "en_GB": {
+    "@i18n": {
+        "en": {
             "@name": "Slider",
             "@description": "A ranged slider element",
             "min": {

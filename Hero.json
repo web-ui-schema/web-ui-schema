@@ -2,8 +2,8 @@
     "@context": "http://uischema.org",
     "@type": "Hero",
     "@parent": "Feature",
-    "@locales": {
-        "en_GB": {
+    "@i18n": {
+        "en": {
             "@name": "Hero",
             "@description": "A large element typically used in page headers"
         }

@@ -2,8 +2,8 @@
     "@context": "http://uischema.org",
     "@type": "Carousel",
     "@parent": "Gallery",
-    "@locales": {
-        "en_GB": {
+    "@i18n": {
+        "en": {
             "@name": "Carousel",
             "@description": "A horizontally scrolling gallery"
         }

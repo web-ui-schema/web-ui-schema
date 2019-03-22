@@ -6,8 +6,8 @@
     "subheading": "string",
     "body": "string",
     "link": "Link",
-    "@locales": {
-        "en_GB": {
+    "@i18n": {
+        "en": {
             "@name": "Feature",
             "@description": "An element for featuring other content",
             "image": {

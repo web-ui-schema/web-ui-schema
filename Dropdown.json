@@ -3,8 +3,8 @@
     "@type": "Dropdown",
     "text": "string",
     "options": "Link[]",
-    "@locales": {
-        "en_GB": {
+    "@i18n": {
+        "en": {
             "@name": "Dropdown",
             "@description": "An element for featuring other content",
             "image": {

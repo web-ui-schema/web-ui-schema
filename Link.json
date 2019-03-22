@@ -4,8 +4,8 @@
     "text": "string",
     "href": "string",
     "openNew": "bool",
-    "@locales": {
-        "en_GB": {
+    "@i18n": {
+        "en": {
             "@name": "Link",
             "@description": "A reference to another page or element",
             "href": {

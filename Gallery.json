@@ -5,8 +5,8 @@
     "subheading": "string",
     "body": "string",
     "items": "Feature[]",
-    "@locales": {
-        "en_GB": {
+    "@i18n": {
+        "en": {
             "@name": "Gallery",
             "@description": "A collection of featured items",
             "heading": {

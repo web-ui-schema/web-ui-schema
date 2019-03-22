@@ -4,8 +4,8 @@
     "@description": "An image element",
     "src": "string",
     "alt": "string",
-    "@locales": {
-        "en_GB": {
+    "@i18n": {
+        "en": {
             "@name": "Image",
             "@description": "A reference to an image",
             "src": {
