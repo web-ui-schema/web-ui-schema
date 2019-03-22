@@ -3,6 +3,7 @@
     "@type": "Dropdown",
     "text": "string",
     "options": "Link[]",
+    "canSearch": "bool",
     "@i18n": {
         "en": {
             "@name": "Dropdown",
