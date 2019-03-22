@@ -1,0 +1,20 @@
+{
+    "@context": "http://uischema.org",
+    "@type": "Option",
+    "name": "string",
+    "value": "string|int|float|bool",
+    "@i18n": {
+        "en": {
+            "@name": "Option",
+            "@description": "An abstract name/value pair",
+            "name": {
+                "@name": "Name",
+                "@description": "A human readable name"
+            },
+            "value": {
+                "@name": "Value",
+                "@description": "The data value"
+            }
+        }
+    }
+}
