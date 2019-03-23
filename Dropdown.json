@@ -3,26 +3,26 @@
     "@type": "Dropdown",
     "text": "string",
     "options": "Option[]",
-    "canSearch": "bool",
+    "isSearchable": "bool",
     "@i18n": {
         "en": {
             "@name": "Dropdown",
-            "@description": "An element for featuring other content",
-            "image": {
-                "@name": "Image",
-                "@description": "The main image"
+            "@description": "A dropdown menu with multiple options",
+            "text": {
+                "@name": "Text",
+                "@description": "The diplayed text label"
             },
-            "heading": {
-                "@name": "Heading",
-                "@description": "The largest heading"
+            "options": {
+                "@name": "Options",
+                "@description": "The list of options"
             },
-            "subheading": {
-                "@name": "Subheading",
-                "@description": "The smaller heading"
+            "isSearchable": {
+                "@name": "Is searchable",
+                "@description": "Whether the user can search amongst the options"
             },
-            "body": {
-                "@name": "Body text",
-                "@description": "The smaller text under the headings"
+            "isMultipleChoice": {
+                "@name": "Is searchable",
+                "@description": "Whether the user can select multiple options"
             }
         }
     }
