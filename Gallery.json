@@ -5,6 +5,10 @@
     "subheading": "string",
     "body": "string",
     "items": "Feature[]",
+    "options": {
+        "useSquares": "bool",
+        "useCoverLinks": "bool"
+    },
     "@i18n": {
         "en": {
             "@name": "Gallery",
@@ -24,6 +28,16 @@
             "items": {
                 "@name": "Items",
                 "@description": "The list of featured items"
+            },
+            "options": {
+                "useSquares": {
+                    "@name": "Use squares",
+                    "@description": "Make the featured items square"
+                },
+                "useCoverLinks": {
+                    "@name": "Use cover links",
+                    "@description": "Make the featured items clickable"
+                }
             }
         }
     }
