@@ -5,7 +5,7 @@
     "@i18n": {
         "en": {
             "@name": "Hero",
-            "@description": "A large element typically used in page headers"
+            "@description": "A large element with an image background"
         }
     }
 }
