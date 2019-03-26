@@ -3,6 +3,7 @@
     "@type": "Image",
     "@description": "An image element",
     "src": "string",
+    "srcset": "string",
     "alt": "string",
     "@i18n": {
         "en": {
