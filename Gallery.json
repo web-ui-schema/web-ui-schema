@@ -8,7 +8,15 @@
     "options": {
         "useSquares": "bool",
         "useCoverLinks": "bool",
-        "isCarousel": "bool"
+        "isCarousel": "bool",
+        "isGrid": "bool",
+        "columns": {
+            "xs": "int",
+            "sm": "int",
+            "md": "int",
+            "lg": "int",
+            "xl": "int"
+        }
     },
     "@i18n": {
         "en": {
