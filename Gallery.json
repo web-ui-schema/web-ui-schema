@@ -4,7 +4,7 @@
     "heading": "string",
     "subheading": "string",
     "body": "string",
-    "items": "Feature[]",
+    "items": [ "Feature" ],
     "options": {
         "useSquares": "bool",
         "useCoverLinks": "bool",
