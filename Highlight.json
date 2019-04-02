@@ -4,7 +4,7 @@
     "@parent": "Feature",
     "@i18n": {
         "en": {
-            "@name": "Hightlight",
+            "@name": "Highlight",
             "@description": "A side-by-side image and accompanying text"
         }
     }
