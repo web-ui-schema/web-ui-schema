@@ -1,6 +1,7 @@
 {
     "@context": "http://uischema.org",
     "@type": "Feature",
+    "@label": "heading",
     "image": "Image",
     "heading": "string",
     "subheading": "string",
@@ -25,6 +26,10 @@
             "body": {
                 "@name": "Body text",
                 "@description": "The smaller text under the headings"
+            },
+            "link": {
+                "@name": "Link",
+                "@description": "The URL redirected to when clicked"
             }
         }
     }

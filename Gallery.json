@@ -1,6 +1,7 @@
 {
     "@context": "http://uischema.org",
     "@type": "Gallery",
+    "@label": "heading",
     "heading": "string",
     "subheading": "string",
     "body": "string",
@@ -39,6 +40,8 @@
                 "@description": "The list of featured items"
             },
             "options": {
+                "@name": "Options",
+                "@description": "Adjustments for this gallery",
                 "useSquares": {
                     "@name": "Use squares",
                     "@description": "Make the featured items square"
@@ -50,6 +53,30 @@
                 "isCarousel": {
                     "@name": "Is carousel",
                     "@description": "Display all featured items in a single row"
+                },
+                "columns": {
+                    "@name": "Columns",
+                    "@description": "The amount of columns",
+                    "xs": {
+                        "@name": "Extra small",
+                        "@description": "Mobile devices"
+                    },
+                    "sm": {
+                        "@name": "Small",
+                        "@description": "Tablets"
+                    },
+                    "md": {
+                        "@name": "Medium",
+                        "@description": "Laptops"
+                    },
+                    "lg": {
+                        "@name": "Large",
+                        "@description": "Desktops"
+                    },
+                    "xl": {
+                        "@name": "Extra large",
+                        "@description": "Large desktops"
+                    }
                 }
             }
         }
