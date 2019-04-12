@@ -54,6 +54,10 @@
                     "@name": "Is carousel",
                     "@description": "Display all featured items in a single row"
                 },
+                "isGrid": {
+                    "@name": "Is grid",
+                    "@description": "Restrict the featured items to a grid"
+                },
                 "columns": {
                     "@name": "Columns",
                     "@description": "The amount of columns",
