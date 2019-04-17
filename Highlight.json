@@ -1,5 +1,6 @@
 {
     "@context": "http://uischema.org",
     "@type": "Highlight",
+    "@topic": [ "media", "text" ],
     "@parent": "Feature"
 }

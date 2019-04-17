@@ -2,6 +2,7 @@
     "@context": "http://uischema.org",
     "@type": "Hero",
     "@parent": "Feature",
+    "@topic": [ "media", "text" ],
     "options": {
         "isHeader": "bool"
     }

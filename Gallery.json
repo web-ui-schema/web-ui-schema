@@ -2,6 +2,7 @@
     "@context": "http://uischema.org",
     "@type": "Gallery",
     "@label": "heading",
+    "@topic": [ "media", "text" ],
     "heading": "string",
     "subheading": "string",
     "body": "string",
