@@ -4,19 +4,5 @@
     "@parent": "Feature",
     "options": {
         "isHeader": "bool"
-    },
-    "@i18n": {
-        "en": {
-            "@name": "Hero",
-            "@description": "A large element with an image background",
-            "options": {
-                "@name": "Options",
-                "@description": "Configuration for this hero",
-                "isHeader": {
-                    "@name": "Is header",
-                    "@description": "If enabled, this hero will act as the page header"
-                }
-            }
-        }
     }
 }
