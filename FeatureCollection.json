@@ -1,6 +1,6 @@
 {
     "@context": "http://uischema.org",
-    "@type": "Gallery",
+    "@type": "FeatureCollection",
     "@label": "heading",
     "@topic": [ "media", "text" ],
     "heading": "string",

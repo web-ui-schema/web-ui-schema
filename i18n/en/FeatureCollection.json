@@ -1,5 +1,5 @@
 {
-    "@name": "Gallery",
+    "@name": "Feature collection",
     "@description": "A collection of featured items",
     "heading": {
         "@name": "Heading",
@@ -19,7 +19,7 @@
     },
     "options": {
         "@name": "Options",
-        "@description": "Adjustments for this gallery",
+        "@description": "Adjustments for this feature collection",
         "useSquares": {
             "@name": "Use squares",
             "@description": "Make the featured items square"

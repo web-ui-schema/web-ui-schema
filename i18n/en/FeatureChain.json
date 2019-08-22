@@ -1,0 +1,12 @@
+{
+    "@name": "Feature chain",
+    "@description": "A chain of features",
+    "items": {
+        "@name": "Items",
+        "@description": "The features"
+    },
+    "link": {
+        "@name": "Link",
+        "@description": "A link after the features"
+    }
+}

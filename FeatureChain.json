@@ -1,7 +1,7 @@
 {
     "@context": "http://uischema.org",
-    "@type": "Timeline",
+    "@type": "FeatureChain",
     "@topic": [ "media", "text" ],
-    "@parent": "Gallery",
+    "@parent": "FeatureCollection",
     "link": "Link"
 }
