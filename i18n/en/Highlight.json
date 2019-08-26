@@ -1,0 +1,12 @@
+{
+    "@name": "Highlight",
+    "@description": "Section element for featuring other content",
+    "options": {
+        "@name": "Options",
+        "@description": "Configuration for this highlight",
+        "useColumns": {
+            "@name": "Use columns",
+            "@description": "If enabled, the body text will be divided into columns when needed"
+        }
+    }
+}
