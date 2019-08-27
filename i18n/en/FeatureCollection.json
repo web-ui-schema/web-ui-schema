@@ -32,6 +32,10 @@
             "@name": "Is carousel",
             "@description": "Display all featured items in a single row"
         },
+        "isContained": {
+            "@name": "Is contained",
+            "@description": "Align the featured items with the text"
+        },
         "isGrid": {
             "@name": "Is grid",
             "@description": "Restrict the featured items to a grid"
