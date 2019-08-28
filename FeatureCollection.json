@@ -3,22 +3,13 @@
     "@type": "FeatureCollection",
     "@label": "heading",
     "@topic": [ "media", "text" ],
+    "@role": "abstract",
+    "@options": {
+        "isContained": "bool",
+        "useCoverLinks": "bool"
+    },
     "heading": "string",
     "subheading": "string",
-    "body": "string",
-    "items": [ "Feature" ],
-    "options": {
-        "useSquares": "bool",
-        "useCoverLinks": "bool",
-        "isCarousel": "bool",
-        "isContained": "bool",
-        "isGrid": "bool",
-        "columns": {
-            "xs": "int",
-            "sm": "int",
-            "md": "int",
-            "lg": "int",
-            "xl": "int"
-        }
-    }
+    "body": "text",
+    "items": [ "Feature" ]
 }

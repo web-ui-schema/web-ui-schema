@@ -1,6 +1,21 @@
 {
     "@name": "Feature collection",
     "@description": "A collection of featured items",
+    "@options": {
+        "@name": "Options",
+        "isContained": {
+            "@name": "Is contained",
+            "@description": "Align the featured items with the text"
+        },
+        "useCoverLinks": {
+            "@name": "Use cover links",
+            "@description": "Make the featured items clickable"
+        },
+        "columns": {
+            "@name": "Columns",
+            "@description": "The amount of columns"
+        }
+    },
     "heading": {
         "@name": "Heading",
         "@description": "The largest heading"
@@ -16,53 +31,5 @@
     "items": {
         "@name": "Items",
         "@description": "The list of featured items"
-    },
-    "options": {
-        "@name": "Options",
-        "@description": "Adjustments for this feature collection",
-        "useSquares": {
-            "@name": "Use squares",
-            "@description": "Make the featured items square"
-        },
-        "useCoverLinks": {
-            "@name": "Use cover links",
-            "@description": "Make the featured items clickable"
-        },
-        "isCarousel": {
-            "@name": "Is carousel",
-            "@description": "Display all featured items in a single row"
-        },
-        "isContained": {
-            "@name": "Is contained",
-            "@description": "Align the featured items with the text"
-        },
-        "isGrid": {
-            "@name": "Is grid",
-            "@description": "Restrict the featured items to a grid"
-        },
-        "columns": {
-            "@name": "Columns",
-            "@description": "The amount of columns",
-            "xs": {
-                "@name": "Extra small",
-                "@description": "Mobile devices"
-            },
-            "sm": {
-                "@name": "Small",
-                "@description": "Tablets"
-            },
-            "md": {
-                "@name": "Medium",
-                "@description": "Laptops"
-            },
-            "lg": {
-                "@name": "Large",
-                "@description": "Desktops"
-            },
-            "xl": {
-                "@name": "Extra large",
-                "@description": "Large desktops"
-            }
-        }
     }
 }

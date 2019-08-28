@@ -5,8 +5,18 @@
     "@label": "heading",
     "@topic": [ "media", "text" ],
     "image": "Image",
-    "heading": "string",
-    "subheading": "string",
-    "body": "string",
+    "heading": {
+        "@type": "string",
+        "@rules": {
+            "max": 100
+        }
+    },
+    "subheading": {
+        "@type": "string",
+        "@rules": {
+            "max": 200
+        }
+    },
+    "body": "html",
     "link": "Link"
 }

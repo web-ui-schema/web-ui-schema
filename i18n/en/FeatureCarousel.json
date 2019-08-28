@@ -1,0 +1,12 @@
+{
+    "@name": "Feature carousel",
+    "@description": "A carousel of featured items",
+    "@options": {
+        "@name": "Options",
+        "@description": "Adjustments for this feature carousel",
+        "visibleItems": {
+            "@name": "Visible items",
+            "@description": "How many featured items are visible"
+        }
+    }
+}

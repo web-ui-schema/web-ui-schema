@@ -4,7 +4,7 @@
     "@type": "Highlight",
     "@parent": "Feature",
     "@topic": [ "media", "text" ],
-    "options": {
+    "@options": {
         "useColumns": "bool"
     }
 }

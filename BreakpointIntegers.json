@@ -1,0 +1,11 @@
+{
+    "@context": "http://uischema.org",
+    "@type": "BreakpointIntegers",
+    "@role": "abstract",
+    "@topic": [ "options" ],
+    "xs": "int",
+    "sm": "int",
+    "md": "int",
+    "lg": "int",
+    "xl": "int"
+}

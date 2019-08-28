@@ -1,7 +1,7 @@
 {
     "@name": "Hero",
     "@description": "A large element with an image background",
-    "options": {
+    "@options": {
         "@name": "Options",
         "@description": "Configuration for this hero",
         "isHeader": {

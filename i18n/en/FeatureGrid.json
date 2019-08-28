@@ -1,0 +1,12 @@
+{
+    "@name": "Feature grid",
+    "@description": "A grid of featured items",
+    "@options": {
+        "@name": "Options",
+        "@description": "Adjustments for this feature grid",
+        "columns": {
+            "@name": "Columns",
+            "@description": "How many columns the featured items should be divided into"
+        }
+    }
+}

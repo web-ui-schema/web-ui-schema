@@ -3,7 +3,7 @@
     "@type": "Hero",
     "@parent": "Feature",
     "@topic": [ "media", "text" ],
-    "options": {
+    "@options": {
         "isHeader": "bool"
     }
 }
