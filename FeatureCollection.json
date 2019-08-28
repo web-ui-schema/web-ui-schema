@@ -4,12 +4,12 @@
     "@label": "heading",
     "@topic": [ "media", "text" ],
     "@role": "abstract",
-    "@options": {
-        "isContained": "bool",
-        "useCoverLinks": "bool"
-    },
     "heading": "string",
     "subheading": "string",
     "body": "text",
-    "items": [ "Feature" ]
+    "items": [ "Feature" ],
+    "options": {
+        "isContained": "bool",
+        "useCoverLink": "bool"
+    }
 }

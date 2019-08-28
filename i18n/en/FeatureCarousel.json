@@ -1,7 +1,7 @@
 {
     "@name": "Feature carousel",
     "@description": "A carousel of featured items",
-    "@options": {
+    "options": {
         "@name": "Options",
         "@description": "Adjustments for this feature carousel",
         "visibleItems": {

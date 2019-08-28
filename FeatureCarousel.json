@@ -1,9 +1,0 @@
-{
-    "@context": "http://uischema.org",
-    "@type": "FeatureGrid",
-    "@topic": [ "media", "text" ],
-    "@parent": "FeatureCollection",
-    "@options": {
-        "visibleItems": "BreakpointIntegers"
-    }
-}

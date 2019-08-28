@@ -1,7 +1,7 @@
 {
     "@name": "Feature wall",
     "@description": "A wall of featured items",
-    "@options": {
+    "options": {
         "@name": "Options",
         "@description": "Adjustments for this feature wall",
         "columns": {

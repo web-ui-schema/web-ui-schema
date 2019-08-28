@@ -1,7 +1,7 @@
 {
     "@name": "Highlight",
     "@description": "Section element for featuring other content",
-    "@options": {
+    "options": {
         "@name": "Options",
         "@description": "Configuration for this highlight",
         "useColumns": {
