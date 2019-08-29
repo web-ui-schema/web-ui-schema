@@ -7,12 +7,7 @@
     "heading": "string",
     "subheading": "string",
     "body": "text",
-    "items": {
-        "@type": "array",
-        "@rules": {
-            "types": [ "Feature" ]
-        }
-    },
+    "items": [ "Feature" ],
     "options": {
         "isContained": "bool",
         "useCoverLink": "bool"
