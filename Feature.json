@@ -7,15 +7,11 @@
     "image": "Image",
     "heading": {
         "@type": "string",
-        "@rules": {
-            "max": 100
-        }
+        "@max": 100
     },
     "subheading": {
         "@type": "string",
-        "@rules": {
-            "max": 200
-        }
+        "@max": 200
     },
     "body": "html",
     "link": "Link"
