@@ -1,0 +1,8 @@
+{
+    "@context": "http://uischema.org",
+    "@type": "Image",
+    "@role": "partial",
+    "@topics": [ "media" ],
+    "src": "media",
+    "alt": "string"
+}

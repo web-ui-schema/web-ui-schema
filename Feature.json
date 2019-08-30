@@ -4,7 +4,7 @@
     "@role": "partial",
     "@label": "heading",
     "@topic": [ "media", "text" ],
-    "image": "media",
+    "image": "Image",
     "heading": {
         "@type": "string",
         "@max": 100
