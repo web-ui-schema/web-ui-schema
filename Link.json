@@ -1,6 +1,7 @@
 {
     "@context": "http://uischema.org",
     "@type": "Link",
+    "@parent": "WebPageElement",
     "@role": "partial",
     "text": "string",
     "href": "string",

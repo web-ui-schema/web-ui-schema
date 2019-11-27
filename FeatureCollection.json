@@ -1,9 +1,9 @@
 {
     "@context": "http://uischema.org",
     "@type": "FeatureCollection",
+    "@parent": "WebPageElement",
     "@label": "heading",
     "@topic": [ "media", "text" ],
-    "@role": "abstract",
     "heading": "string",
     "subheading": "string",
     "body": "text",
