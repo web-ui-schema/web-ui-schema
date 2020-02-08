@@ -1,0 +1,9 @@
+{
+    "@context": "http://uischema.org",
+    "@type": "MediaCollection",
+    "@parent": "WebPageElement",
+    "@label": "heading",
+    "heading": "string",
+    "body": "text",
+    "items": [ "MediaObject" ]
+}

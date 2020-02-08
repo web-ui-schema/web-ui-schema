@@ -1,0 +1,12 @@
+{
+    "@name": "Media Collection",
+    "heading": {
+        "@name": "Heading"
+    },
+    "body": {
+        "@name": "Body"
+    },
+    "items": {
+        "@name": "Items"
+    }
+}
