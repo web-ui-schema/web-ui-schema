@@ -1,19 +1,18 @@
 {
     "@context": "http://uischema.org",
     "@type": "Feature",
-    "@parent": "WebPageElement",
-    "@role": "partial",
+    "@parent": "Intangible",
     "@label": "heading",
-    "@topic": [ "media", "text" ],
     "image": "ImageObject",
-    "heading": {
-        "@type": "string",
-        "@max": 100
-    },
-    "subheading": {
-        "@type": "string",
-        "@max": 200
-    },
-    "body": "html",
-    "link": "Link"
+    "heading": "Text",
+    "subheading": "Text",
+    "body": "MultiLineText",
+    "link": {
+        "target": {
+            "@type": "Enumeration",
+            "@options": [ "_self", "_blank" ]
+        },
+        "href": "Text",
+        "text": "Text"
+    }
 }

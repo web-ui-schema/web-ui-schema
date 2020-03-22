@@ -1,9 +1,19 @@
 {
     "@context": "http://uischema.org",
     "@type": "Highlight",
-    "@parent": "Feature",
+    "@parent": "WebPageElement",
     "@topic": [ "media", "text" ],
-    "options": {
-        "useColumns": "bool"
+    "@label": "heading",
+    "image": "ImageObject",
+    "heading": "Text",
+    "subheading": "Text",
+    "body": "RichText",
+    "link": {
+        "target": {
+            "@type": "Enumeration",
+            "@options": [ "_self", "_blank" ]
+        },
+        "href": "Text",
+        "text": "Text"
     }
 }

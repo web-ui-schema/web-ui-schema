@@ -19,6 +19,19 @@
     },
     "link": {
         "@name": "Link",
-        "@description": "The URL redirected to when clicked"
+        "@description": "A link to other content",
+        "target": {
+            "@name": "Target",
+            "@options": {
+                "_self": "Same window/tab",
+                "_blank": "New window/tab"
+            }
+        },
+        "href": {
+            "@name": "URL"
+        },
+        "text": {
+            "@name": "Text"
+        }
     }
 }

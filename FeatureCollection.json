@@ -4,12 +4,8 @@
     "@parent": "WebPageElement",
     "@label": "heading",
     "@topic": [ "media", "text" ],
-    "heading": "string",
-    "subheading": "string",
-    "body": "text",
-    "items": [ "Feature" ],
-    "options": {
-        "isContained": "bool",
-        "useCoverLink": "bool"
-    }
+    "heading": "Text",
+    "subheading": "Text",
+    "body": "MultiLineText",
+    "items": [ "Feature" ]
 }

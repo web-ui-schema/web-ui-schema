@@ -16,20 +16,5 @@
     "items": {
         "@name": "Items",
         "@description": "The list of featured items"
-    },
-    "options": {
-        "@name": "Options",
-        "isContained": {
-            "@name": "Is contained",
-            "@description": "Align the featured items with the text"
-        },
-        "useCoverLink": {
-            "@name": "Use cover links",
-            "@description": "Make the featured items clickable"
-        },
-        "columns": {
-            "@name": "Columns",
-            "@description": "The amount of columns"
-        }
     }
 }

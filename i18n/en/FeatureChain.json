@@ -1,12 +1,21 @@
 {
     "@name": "Feature chain",
     "@description": "A chain of features",
-    "items": {
-        "@name": "Items",
-        "@description": "The features"
-    },
     "link": {
         "@name": "Link",
-        "@description": "A link after the features"
+        "@description": "A link after the features",
+        "target": {
+            "@name": "Target",
+            "@options": {
+                "_self": "Same window/tab",
+                "_blank": "New window/tab"
+            }
+        },
+        "href": {
+            "@name": "URL"
+        },
+        "text": {
+            "@name": "Text"
+        }
     }
 }

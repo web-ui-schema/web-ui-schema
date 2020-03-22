@@ -3,5 +3,12 @@
     "@type": "FeatureChain",
     "@topic": [ "media", "text" ],
     "@parent": "FeatureCollection",
-    "link": "Link"
+    "link": {
+        "target": {
+            "@type": "Enumeration",
+            "@options": [ "_self", "_blank" ]
+        },
+        "href": "Text",
+        "text": "Text"
+    }
 }

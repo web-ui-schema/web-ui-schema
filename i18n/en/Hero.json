@@ -1,12 +1,37 @@
 {
     "@name": "Hero",
     "@description": "A large element with an image background",
-    "options": {
-        "@name": "Options",
-        "@description": "Configuration for this hero",
-        "isHeader": {
-            "@name": "Is header",
-            "@description": "If enabled, this hero will act as the page header"
+    "image": {
+        "@name": "Image",
+        "@description": "The main image"
+    },
+    "heading": {
+        "@name": "Heading",
+        "@description": "The largest heading"
+    },
+    "subheading": {
+        "@name": "Subheading",
+        "@description": "The smaller heading"
+    },
+    "body": {
+        "@name": "Body text",
+        "@description": "The smaller text under the headings"
+    },
+    "link": {
+        "@name": "Link",
+        "@description": "A link after the features",
+        "target": {
+            "@name": "Target",
+            "@options": {
+                "_self": "Same window/tab",
+                "_blank": "New window/tab"
+            }
+        },
+        "href": {
+            "@name": "URL"
+        },
+        "text": {
+            "@name": "Text"
         }
     }
 }

@@ -1,9 +1,0 @@
-{
-    "@context": "http://uischema.org",
-    "@type": "FeatureWall",
-    "@topic": [ "media", "text" ],
-    "@parent": "FeatureCollection",
-    "options": {
-        "columns": "BreakpointIntegers"
-    }
-}
