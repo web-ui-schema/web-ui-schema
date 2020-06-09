@@ -5,12 +5,19 @@
     "@topic": [ "media", "text" ],
     "@label": "heading",
     "image": "ImageObject",
+    "video": "VideoObject",
     "heading": "Text",
     "subheading": "Text",
     "body": "RichText",
+    "alignment": {
+        "@type": "Enumeration",
+        "@max": 1,
+        "@options": [ "center", "left", "right", "justify" ]
+    },
     "link": {
         "target": {
             "@type": "Enumeration",
+            "@max": 1,
             "@options": [ "_self", "_blank" ]
         },
         "href": "Text",

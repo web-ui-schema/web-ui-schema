@@ -11,6 +11,7 @@
     "link": {
         "target": {
             "@type": "Enumeration",
+            "@max": 1,
             "@options": [ "_self", "_blank" ]
         },
         "href": "Text",

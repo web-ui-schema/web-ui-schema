@@ -1,0 +1,5 @@
+{
+    "@context": "http://uischema.org",
+    "@type": "FeatureRail",
+    "@parent": "FeatureCollection"
+}

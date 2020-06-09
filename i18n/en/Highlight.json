@@ -17,15 +17,16 @@
         "@name": "Body text",
         "@description": "The smaller text under the headings"
     },
+    "alignment": {
+        "@name": "Alignment",
+        "@options": [ "Center", "Left", "Right", "Justify" ]
+    },
     "link": {
         "@name": "Link",
         "@description": "A link after the features",
         "target": {
             "@name": "Target",
-            "@options": {
-                "_self": "Same window/tab",
-                "_blank": "New window/tab"
-            }
+            "@options": [ "Same window/tab", "New window/tab" ]
         },
         "href": {
             "@name": "URL"

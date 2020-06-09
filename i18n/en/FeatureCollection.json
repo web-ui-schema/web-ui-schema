@@ -1,20 +1,16 @@
 {
     "@name": "Feature collection",
-    "@description": "A collection of featured items",
+    "@description": "A collection of features",
     "heading": {
-        "@name": "Heading",
-        "@description": "The largest heading"
+        "@name": "Heading"
     },
     "subheading": {
-        "@name": "Subheading",
-        "@description": "The smaller heading"
+        "@name": "Subheading"
     },
     "body": {
-        "@name": "Body text",
-        "@description": "The smaller text under the headings"
+        "@name": "Body"
     },
     "items": {
-        "@name": "Items",
-        "@description": "The list of featured items"
+        "@name": "Items"
     }
 }
